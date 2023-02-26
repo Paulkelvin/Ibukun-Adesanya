@@ -4,7 +4,7 @@ I'm a software engineer based in Lagos, Nigeria with a keen interest in solving 
 
 ## Projects
 
-Here are some projects I've worked on recently:
+Here are some projects I've worked on recently using JavaScript:
 
 ### [Enzoe](https://enzoe.netlify.app/)
 #### Description
