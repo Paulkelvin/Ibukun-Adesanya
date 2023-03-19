@@ -1,10 +1,19 @@
 # Hi there, I'm Ibukun Adesanya 👋😊😊😊
 
-I'm a software engineer based in Lagos, Nigeria with a keen interest in solving hand-operated problems. I specialize in JavaScript, React, C, and Python and love working with tools and technologies such as git & GitHub, unix shell scripting, IDEs..
+I'm a software engineer with a keen interest of solving hand-operated problems. I specialize in JavaScript, React, C, and Python and love working with tools and technologies such as git & GitHub, unix shell scripting, IDEs..
 
-## Projects
+## Projects 📂
 
 Here are some projects I've worked on recently using JavaScript:
+
+### [Geo-Logic](https://github.com/Paulkelvin/Geo-Logic)
+#### Description
+* 🔬 This mobile-responsive application automates geometric computations in real time, replacing the need for time-consuming manual calculations. With Geo-Logic, you can easily input your geodata and receive immediate answers for calculations like bearing, distance, delta & Y, and the coordinates of successive sites. 📐
+* It is customizable; it allows the dynamic addition and removal of rows, and also clearing of tabledata.
+#### Tools
+* HTML
+* CSS
+* JavaScript
 
 ### [Enzoe](https://enzoe.netlify.app/)
 #### Description
