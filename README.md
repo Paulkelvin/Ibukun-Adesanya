@@ -47,13 +47,14 @@ A simple dice game called Piggame pits two players against one another to roll d
 
 ### Get in touch
 
-[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][Email]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][Twitter]
+[<img align="left" alt="Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png" />][Email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][Linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" />][Twitter]
 
 [Email]: mailto:ibukunadesanya0@gmail.com
-[LinkedIn]: https://www.linkedin.com/in/paulkelvin/
+[Linkedin]: https://www.linkedin.com/in/paulkelvin/
 [Twitter]: https://twitter.com/Paulluskelvin_
+
 
 
 
