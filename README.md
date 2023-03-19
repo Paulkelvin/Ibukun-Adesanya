@@ -48,11 +48,12 @@ A simple dice game called Piggame pits two players against one another to roll d
 ### Get in touch
 
 [<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][Email]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][Linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />][Twitter]
 
-Email: [Email](mailto:ibukunadesanya0@gmail.com)
-LinkedIn: [LinkedIn](https://https://www.linkedin.com/in/paulkelvin/)
-Twitter: [Twitter](https://https://twitter.com/Paulluskelvin_)
+[Email]: mailto:ibukunadesanya0@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/paulkelvin/
+[Twitter]: https://twitter.com/Paulluskelvin_
+
 
 
