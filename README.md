@@ -1,6 +1,7 @@
-# Hi there, I'm Ibukun Adesanya 👋😊😊😊 [<img align="left" alt="Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png" />][Email]
+# Hi there, I'm Ibukun Adesanya 👋😊😊😊 <br>
+[<img align="left" alt="Email" width="28px" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-email-512.png" />][Email]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][Linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" />][Twitter]
+[<img align="left" alt="Twitter" width="22px" height="24px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" />][Twitter] <br>
 
 [Email]: mailto:ibukunadesanya0@gmail.com
 [Linkedin]: https://www.linkedin.com/in/paulkelvin/
@@ -10,7 +11,7 @@ I'm a software engineer with a keen interest of solving hand-operated problems. 
 
 ## Projects 📂
 
-Here are some projects I've worked on recently using JavaScript:
+Here are some projects I've worked on recently using JavaScript, click links to visit website:
 
 ### [Geo-Logic](https://github.com/Paulkelvin/Geo-Logic)
 #### Description
@@ -50,6 +51,19 @@ A simple dice game called Piggame pits two players against one another to roll d
 * HTML
 * CSS
 * JavaScript
+
+## My Tech Stack
+
+<p align="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/python-1-226045.png" alt="Python" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS" width="50" height="50" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="GitHub" width="50" height="50" />
+</p>
+
 
 ### Get in touch
 
