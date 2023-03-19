@@ -13,7 +13,7 @@ I'm a software engineer with a keen interest of solving hand-operated problems. 
 
 Here are some projects I've worked on recently using JavaScript, click links to visit website:
 
-### [Geo-Logic](https://github.com/Paulkelvin/Geo-Logic)
+### [Geo-Logic](https://paulkelvin.github.io/Geo-Logic/)
 #### Description
 * 🔬 This mobile-responsive application automates geometric computations in real time, replacing the need for time-consuming manual calculations. With Geo-Logic, you can easily input your geodata and receive immediate answers for calculations like bearing, distance, delta & Y, and the coordinates of successive sites. 📐
 * It is customizable; it allows the dynamic addition and removal of rows, and also clearing of tabledata.
