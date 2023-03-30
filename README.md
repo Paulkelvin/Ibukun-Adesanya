@@ -7,7 +7,7 @@
 [Linkedin]: https://www.linkedin.com/in/paulkelvin/
 [Twitter]: https://twitter.com/Paulluskelvin_
 
-I'm a software engineer with a keen interest of solving hand-operated problems. I specialize in JavaScript, React, C, and Python and love working with tools and technologies such as git & GitHub, unix shell scripting, IDEs..
+I'm a software engineer with a keen interest of solving hand-operated problems. I specialize in JavaScript, React, C, and Python and love working with tools and technologies such as git & GitHub, unix shell scripting...
 
 ## Projects 📂
 
