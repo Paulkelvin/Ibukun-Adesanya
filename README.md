@@ -64,6 +64,10 @@ A simple dice game called Piggame pits two players against one another to roll d
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="GitHub" width="50" height="50" />
 </p>
 
+[![Paul Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulkelvin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&line_height=24&hide=stars,contribs)](https://github.com/paulkelvin/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkelvin&layout=compact&theme=radical)](https://github.com/paulkelvin/github-readme-stats)
+
 
 ### Get in touch
 
