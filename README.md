@@ -7,7 +7,7 @@
 [Linkedin]: https://www.linkedin.com/in/paulkelvin/
 [Twitter]: https://twitter.com/Paulluskelvin_
 
-I'm a software engineer with a keen interest of providing web automated solutions and simplifying complex processes. I specialize in JavaScript, React, C, and Python and love working with tools and technologies such as git & GitHub, unix shell scripting...
+I'm a software engineer with a keen interest of providing automated web solutions and simplifying complex processes. I specialize in JavaScript, React, C, and Python and love working with tools and technologies such as git & GitHub, unix shell scripting...
 
 ## Projects 📂
 
